@@ -1,0 +1,15 @@
+C:\Users\90544\Desktop\Yazılım Proje Yönetimi\CKKV\CKKV\bin\x86\Debug\CKKV.exe.config
+C:\Users\90544\Desktop\Yazılım Proje Yönetimi\CKKV\CKKV\bin\x86\Debug\CKKV.exe
+C:\Users\90544\Desktop\Yazılım Proje Yönetimi\CKKV\CKKV\bin\x86\Debug\CKKV.pdb
+C:\Users\90544\Desktop\Yazılım Proje Yönetimi\CKKV\CKKV\bin\x86\Debug\GemBox.Spreadsheet.dll
+C:\Users\90544\Desktop\Yazılım Proje Yönetimi\CKKV\CKKV\bin\x86\Debug\GemBox.Spreadsheet.WinFormsUtilities.dll
+C:\Users\90544\Desktop\Yazılım Proje Yönetimi\CKKV\CKKV\bin\x86\Debug\GemBox.Spreadsheet.xml
+C:\Users\90544\Desktop\Yazılım Proje Yönetimi\CKKV\CKKV\bin\x86\Debug\GemBox.Spreadsheet.WinFormsUtilities.xml
+C:\Users\90544\Desktop\Yazılım Proje Yönetimi\CKKV\CKKV\obj\x86\Debug\CKKV.csprojAssemblyReference.cache
+C:\Users\90544\Desktop\Yazılım Proje Yönetimi\CKKV\CKKV\obj\x86\Debug\CKKV.csproj.ResolveComReference.cache
+C:\Users\90544\Desktop\Yazılım Proje Yönetimi\CKKV\CKKV\obj\x86\Debug\CKKV.Form1.resources
+C:\Users\90544\Desktop\Yazılım Proje Yönetimi\CKKV\CKKV\obj\x86\Debug\CKKV.Properties.Resources.resources
+C:\Users\90544\Desktop\Yazılım Proje Yönetimi\CKKV\CKKV\obj\x86\Debug\CKKV.csproj.GenerateResource.cache
+C:\Users\90544\Desktop\Yazılım Proje Yönetimi\CKKV\CKKV\obj\x86\Debug\CKKV.csproj.CopyComplete
+C:\Users\90544\Desktop\Yazılım Proje Yönetimi\CKKV\CKKV\obj\x86\Debug\CKKV.exe
+C:\Users\90544\Desktop\Yazılım Proje Yönetimi\CKKV\CKKV\obj\x86\Debug\CKKV.pdb
