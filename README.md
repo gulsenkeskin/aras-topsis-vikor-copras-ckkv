@@ -1,2 +1,1 @@
-# Aras-Topsis-Vikor-Copras-Kodlari
- Çok kriterli karar verme tekniklerinden aras-copras-vikor-topsis yöntemlerinin kodları
+ Çok kriterli karar verme tekniklerinden aras-copras-vikor-topsis yöntemlerini kullanarak hesaplama yapan masaüstü uygulamasının kodları :octocat:
